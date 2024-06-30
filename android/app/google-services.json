@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188884529937",
+    "project_id": "mental-well-ra9rrb",
+    "storage_bucket": "mental-well-ra9rrb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188884529937:android:30e6f2caa908f83abbd2b0",
+        "android_client_info": {
+          "package_name": "com.mycompany.mindmender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bJ-jvyvL2FlYseV6nQvUp4bYAzrvDt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
